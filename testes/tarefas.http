@@ -1,0 +1,4 @@
+GET https://glorious-parakeet-g4r9x5jjj7gjf95r4-3000.app.github.dev/api/tarefas
+
+###
+POST https://glorious-parakeet-g4r9x5jjj7gjf95r4-3000.app.github.dev/api/tarefas
